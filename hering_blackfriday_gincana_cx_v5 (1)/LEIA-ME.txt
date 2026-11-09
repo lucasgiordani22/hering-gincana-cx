@@ -1,0 +1,5 @@
+V5 — correção da tela inicial
+- Arte de fundo é ilustração separada, sem botão desenhado dentro dela.
+- Botão INICIAR EXPEDIÇÃO é um elemento HTML real e clicável.
+- Mantém etapas, câmara e ranking local.
+ATENÇÃO: Ranking ainda não sincroniza entre dispositivos. Para tempo real, precisa integrar Supabase/Firebase e redeploy.
